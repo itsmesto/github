@@ -6,7 +6,9 @@ A small Windows desktop scanner for **HP LaserJet Pro MFP M28a / M28-M31 over US
 
 ## Download and run
 
-1. Download [`HP_M28a_Scan.exe`](release/HP_M28a_Scan.exe).
+[Download HP_M28a_Scan.exe](https://github.com/itsmesto/github/raw/refs/heads/main/release/HP_M28a_Scan.exe)
+
+1. Download the executable from the link above.
 2. Connect and turn on the printer. For diagnosis, plug its USB cable directly into the PC rather than through a hub.
 3. Lift the scanner cover. Place one page face down on the glass, align it with the corner guide, and close the cover. The M28a uses a flatbed scanner.
 4. Run `HP_M28a_Scan.exe`.
@@ -53,4 +55,6 @@ The repository intentionally contains no scanned documents or scanner logs. Do n
 ## Reference
 
 HP lists the M28a as a flatbed scanner and documents scanning through HP LaserJet software or TWAIN/WIA-compliant software: [HP M28a specifications](https://support.hp.com/us-en/product/product-specs/model/16647084).
+
+
 
